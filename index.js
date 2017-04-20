@@ -3,4 +3,4 @@ module.exports = function (xs, f) {
         return f(x) > f(max) ? x : max;
     });
 };
-//hello world
+//hello world!
